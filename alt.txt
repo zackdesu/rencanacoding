@@ -2,3 +2,4 @@ Rencana coding tambahan:
 
 - Mempelajari Bootstrap
 - Mempelajari React.js
+- Mempelajari Tailwind CSS
