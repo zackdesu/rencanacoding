@@ -1,5 +1,5 @@
 Rencana coding tambahan:
 
 - Mempelajari Bootstrap
+- Mempelajari Python
 - Mempelajari React.js
-- Mempelajari Tailwind CSS
