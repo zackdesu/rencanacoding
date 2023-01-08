@@ -1,5 +1,7 @@
 Rencana coding saya untuk kedepannya:
 
-- Belajar HTML
-- Belajar CSS
+- Belajar HTML (done)
+- Belajar CSS (done)
 - Belajar Javascript
+- Mempelajari version control system
+- Mempelajari cara menggunakan github
