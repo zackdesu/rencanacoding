@@ -1,6 +1,5 @@
 Rencana coding tambahan:
 
 - Mempelajari Bootstrap
-- Mempelajari PHP
 - Mempelajari Python
-- Masuk ke dunia Back-End Developer
+- Mempelajari React.js
