@@ -2,3 +2,5 @@ Rencana coding tambahan:
 
 - Mempelajari Bootstrap
 - Mempelajari React.js
+- Mempelajari Python
+- Masuk ke dunia Back-End Developer
